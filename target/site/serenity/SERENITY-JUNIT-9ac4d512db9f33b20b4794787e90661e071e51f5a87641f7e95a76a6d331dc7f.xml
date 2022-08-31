@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="I as user if the Utest" skipped="0" tests="1" time="37.09" timestamp="2022-08-23 12:50:27"><testcase name="Google traslate"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled
+co.com.google.traslate.tasks.WordTraductorReto.performAs(WordTraductorReto.java:15)
+co.com.google.traslate.stepdefinitions.WordTraductionStepDefinition.userSelectGoogleTraslate(WordTraductionStepDefinition.java:36)
+cucumber.runner.Runner.runPickle(Runner.java:80)
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+</system-err></testcase></testsuite>
